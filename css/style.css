@@ -167,12 +167,12 @@ padding-left: 0px;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(/images/bgmenu.png) 0px 0px repeat-x;
+  background: url(images/bgmenu.png) 0px 0px repeat-x;
 }
 
 #dropdown_nav {
   font-weight: bold;
-  display: inline-block;
+  display: block;
   list-style: none;
   border-bottom: 0px solid #777;
   margin-top: 18px;
@@ -240,7 +240,7 @@ padding-left: 0px;
 #dropdown_nav .sub_nav li a:hover {
   background: #222;
   color: #0dbfe5;
-  display: block;
+  
 }
 
 
