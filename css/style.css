@@ -242,7 +242,7 @@ padding-left: 0px;
   color: #0dbfe5;
 }
 
-.dropdown_nav:hover .sub_nav {display: block;}
+#dropdown_nav:hover .sub_nav {display: block;}
 
 #lpblock {
   margin: 0 auto;
