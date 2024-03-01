@@ -240,9 +240,10 @@ padding-left: 0px;
 #dropdown_nav .sub_nav li a:hover {
   background: #222;
   color: #0dbfe5;
+  display: block;
 }
 
-.bottomMenu:hover  #dropdown_nav .sub_nav {display: block;}
+
 
 #lpblock {
   margin: 0 auto;
