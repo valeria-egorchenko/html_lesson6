@@ -167,7 +167,7 @@ padding-left: 0px;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(images/bgmenu.png) 0px 0px repeat-x;
+  background: url(/images/bgmenu.png) 0px 0px repeat-x;
 }
 
 #dropdown_nav {
@@ -241,6 +241,8 @@ padding-left: 0px;
   background: #222;
   color: #0dbfe5;
 }
+
+.dropdown_nav:hover .sub_nav {display: block;}
 
 #lpblock {
   margin: 0 auto;
