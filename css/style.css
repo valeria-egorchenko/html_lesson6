@@ -159,13 +159,15 @@ padding-left: 0px;
   top: 90px;
 }
 
+/*----- Меню -----*/
+
 .bottomMenu {
   width: 1200px;
   height: 70px;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(/images/bgmenu.png) 0px 0px repeat-x;
+  background: url(images/bgmenu.png) 0px 0px repeat-x;
 }
 
 #dropdown_nav {
@@ -187,7 +189,7 @@ padding-left: 0px;
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(/images/linemenu.png) right no-repeat;
+  background: url(images/linemenu.png) right no-repeat;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
   -webkit-transition: background-color 0.3s 0.01s ease;
@@ -239,4 +241,114 @@ padding-left: 0px;
   color: #0dbfe5;
 }
 
+#lpblock {
+  margin: 0 auto;
+  margin-top: 193px;
+  width: 1200px;
+  height: 100px;
+  background: #eee;
+  position: relative;
+}
 
+    #lpblock h2 {
+      font-weight: 100;
+      padding-top: 35px;
+      font-size: 3em;
+      text-align: center;
+      font-family: "Segoe UI Semilight";
+      color: #b2b2b2;
+    }
+
+/*-----#Content-----*/
+.info {
+  width: 100%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 100%;
+  color: #999;
+}
+
+    .info a {
+      color: #777;
+    }
+
+    .info a:hover {
+      color: #4991bb;
+    }
+
+.raz {
+  margin: 0 auto;
+  border: 0px solid #333;
+  background: #fff;
+  width: 116px;
+  height: 29px;
+  margin-bottom: 50px;
+  background: url(/images/raz.png) 0px 0px no-repeat;
+}
+
+.postBox {
+  border: 0px solid #333;
+  background: #fff;
+  width: 700px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 50px;
+}
+
+    .postBox h2 a {
+      font-family: "Segoe UI Semilight", "Segoe UI", Tahoma, Helvetica, Sans-Serif;
+      color: #000;
+      font-style: normal;
+      font-weight: 100;
+      font-size: 33px;
+      line-height: 35px;
+      -moz-transition: all 0.3s 0.01s ease;
+      -o-transition: all 0.3s 0.01s ease;
+      -webkit-transition: all 0.3s 0.01s ease;
+          
+            
+    }
+
+    .postBox h2 a:hover {
+      color: #0dbfe5;
+    }
+
+      .postBox .textPreview {
+        border: 0px solid #333;
+        width: 800px;
+        margin-bottom: 30px;
+      }
+
+      .postBox .textPreview p {
+        margin-top: 0;
+      }
+
+      .postBox .postThumb {
+        margin: 0px 0px 15px 0;
+      }
+
+      .postBox .postMeta {
+        padding-bottom: 15px;
+        clear: left;
+        overflow: hidden;
+      }
+
+.more-link a{
+  border-radius: 3px;
+  background: #0dbfe5;
+  margin-top: 30px;
+  font-weight: 600;
+  color: #fff;
+  font-size: 17px;
+  padding: 6px 25px 9px 25px;
+  -moz-transition: all 0.3s 0.01s ease;
+  -o-transition: all 0.3s 0.01s ease;
+  -webkit-transition: all 0.3s 0.01s ease;     
+        
+}
+
+.more-link a:hover{
+  background: #000;
+  color:#0dbfe5;
+}
