@@ -352,3 +352,118 @@ padding-left: 0px;
   background: #000;
   color:#0dbfe5;
 }
+
+/*----- Поиск -----*/
+
+#form-query {
+  position: relative;
+  background: #eeeeee;
+  border: 0px solid #e4e4e4;
+  width: 335px;
+  height: 31px;
+  padding: 8px 10px 7px;
+  font-weight: 100;
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 30px;
+}
+
+    #form-querysub {
+      position: absolute;
+      right: 15px;
+      top: 15px;
+      width: 17px;
+      height: 17px;
+      background: url(images/search.png) 0px 0px no-repeat;
+      border: 0px dashed #333;
+    }
+
+        #form-querysub:hover {
+          cursor: pointer;
+        }
+
+
+/*----- Правый блок -----*/
+
+.rightBox {
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 330px;
+  margin-bottom: 30px;
+}
+        
+  .rightBox h2 {
+    width: 335px;
+    background: #f7f7f7 url(images/h2img.png) 320px 14px no-repeat;
+    font-size: 18px;
+    font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
+    color: #333;
+    display: block;
+    padding: 10px 0 15px 20px;
+  }
+        
+  .rightBox ul li {
+    width: 350px;
+    padding: 10px 0px;
+    border-bottom: 1px solid #f6f6f6;
+    font-size: 14px;
+    line-height: 16px;
+  }
+        
+  .rightBox a {
+    color: #333;
+  }
+        
+  .rightBox a:hover {
+    color: #0dbfe5;
+  }
+
+
+  /*----- Футер -----*/
+
+  #footer {
+    margin-top: 50px;
+    height: 100px;
+    width: 100%;
+    background: #0dbfe5;
+  }
+  
+      #footerInner {
+        position: relative;
+        border: 0px solid #000;
+        width: 1200px;
+        margin: 0 auto;
+        height: 100px;
+      }
+  
+      #footerlogo {
+        position: absolute;
+        left: 0px;
+        top: 25px;
+      }
+  
+      .footernav {
+        position: absolute;
+        right: 0px;
+        top: 35px;
+      }
+  
+          .footernav ul li {
+            float: left;
+          }
+  
+          .footernav ul li a {
+            margin-top: 0px;
+            font-weight: 100;
+            border-right: 0px solid #adadad;
+            display: block;
+            color: #fff;
+            text-decoration: none;
+            line-height: 20px;
+            font-size: 18px;
+            padding: 0px 0px 0px 25px;
+          }
+  
+          .footernav ul li a:hover {
+            color: #333;
+          }
