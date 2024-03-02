@@ -131,21 +131,21 @@ padding-left: 0px;
 }
 
 .share-new .icon-twitter {
-  background: url(images/twitter-variation.png), url(../images/twitter-variation.png) 0 center no-repeat;
+  background: url(../images/twitter-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 3px;
 }
 
 .share-new .icon-rss {
-  background: url(images/rss-variation.png), url(../images/rss-variation.png) 0 center no-repeat;
+  background: url(../images/rss-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
 }
 
 .share-new .icon-mail {
-  background: url(images/email-variation.png), url(../images/email-variation.png) 0 center no-repeat;
+  background: url(../images/email-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
@@ -167,7 +167,7 @@ padding-left: 0px;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(images/bgmenu.png), url(../images/bgmenu.jpg) 0px 0px repeat-x;
+  background: url(../images/bgmenu.jpg) 0px 0px repeat-x;
   
 }
 
@@ -191,7 +191,7 @@ padding-left: 0px;
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(images/linemenu.png), url(../images/linemenu.png) right no-repeat;
+  background: url(../images/linemenu.png) right no-repeat;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
   -webkit-transition: background-color 0.3s 0.01s ease;
