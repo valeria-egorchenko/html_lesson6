@@ -397,16 +397,36 @@ padding-left: 0px;
   width: 330px;
   margin-bottom: 30px;
 }
-        
-  .rightBox h2 {
+
+h2{
+  width: 335px;
+  background: #f7f7f7 ;
+  font-size: 18px;
+  font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
+  color: #333;
+  display: block;
+  padding: 10px 0 15px 20px;
+}
+
+.rightBox {
+  width: 335px;
+  background: url(images/h2img.png), url(../images/h2img.png) 320px 14px no-repeat;
+  font-size: 18px;
+  font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
+  color: #333;
+  display: block;
+  padding: 10px 0 15px 20px;
+}
+
+  /*.rightBox h2 {
     width: 335px;
-    background: #f7f7f7 url(../images/h2img.png) 320px 14px no-repeat;
+    background: #f7f7f7 url(images/h2img.png), url(../images/h2img.png) 320px 14px no-repeat;
     font-size: 18px;
     font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
     color: #333;
     display: block;
     padding: 10px 0 15px 20px;
-  }
+  }*/
         
   .rightBox ul li {
     width: 350px;
