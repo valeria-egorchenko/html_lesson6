@@ -400,7 +400,7 @@ padding-left: 0px;
         
   .rightBox h2 {
     width: 335px;
-    background: #f7f7f7 url(images/h2img.png), url(../images/h2img.png) 320px 14px no-repeat;
+    background: #f7f7f7 url(../images/h2img.png) 320px 14px no-repeat;
     font-size: 18px;
     font-family: "Segoe UI Semibold", Tahoma, Helvetica, Sans-Serif;
     color: #333;
