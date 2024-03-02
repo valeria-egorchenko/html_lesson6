@@ -172,6 +172,10 @@ padding-left: 0px;
   left: 0px;
   bottom: 0px;
   background: url(images/bgmenu.png) 0px 0px repeat-x;
+  
+}
+
+.bottomMenu{
   background: url(../images/bgmenu.jpg) 0px 0px repeat-x;
 }
 
