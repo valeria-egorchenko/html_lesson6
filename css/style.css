@@ -167,7 +167,7 @@ padding-left: 0px;
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(images/bgmenu.jpg), url(../images/bgmenu.jpg) 0px 0px repeat-x;
+  background: url(../images/bgmenu.jpg) 0px 0px repeat-x;
   
 }
 
@@ -290,7 +290,7 @@ padding-left: 0px;
   width: 116px;
   height: 29px;
   margin-bottom: 50px;
-  background: url(images/raz.png), url(../images/raz.png) 0px 0px no-repeat;
+  background: url(../images/raz.png) 0px 0px no-repeat;
 }
 
 .postBox {
