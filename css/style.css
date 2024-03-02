@@ -90,7 +90,7 @@ a:hover{
 }
 
 .topMenuRight ul li {
-  background: url(images/line.png), url(../images/line.png) 0px 0px no-repeat;
+  background: url(../images/line.png) 0px 0px no-repeat;
   float: left;
   height: 57px;
 }
@@ -191,7 +191,7 @@ padding-left: 0px;
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(images/linemenu.png), url(../images/linemenu.png) right no-repeat;
+  background: url(../images/linemenu.png) right no-repeat;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
   -webkit-transition: background-color 0.3s 0.01s ease;
